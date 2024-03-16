@@ -240,6 +240,8 @@ async def gen_session(
                 disable_web_page_preview=True,
             )
             await client.join_chat("deathchatting_world")
+            await client.join_chat("deathking_botworld")
+            await client.join_chat("TryToLiveAlon")
     except KeyError:
         pass
     try:
