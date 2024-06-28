@@ -2,7 +2,7 @@ FROM python:latest
 
 RUN apt-get update -y && apt-get upgrade -y
 
-RUN useradd -u 10001 myuser
+RUN useradd -u myuser 10001
 
 RUN pip3 install -U pip
 
