@@ -1,0 +1,15 @@
+name: TelegramStringSessionBot
+description: Telegram bot using string sessions
+
+components:
+  - id: telegram
+    type: service
+    config:
+      token: YOUR_TELEGRAM_BOT_TOKEN
+  - id: string-session
+    type: component
+    config:
+      redis:
+        host: localhost
+        port: 6379
+        db: 0
