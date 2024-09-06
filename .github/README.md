@@ -79,7 +79,7 @@ Press `Ctrl+b` and then `d`
 <a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/deathking_botworldd"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -88,7 +88,7 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousX1025)  ғᴏʀ  [ғᴀʟʟᴇɴ ᴍᴜsɪᴄ](https://github.com/AnonymousX1025/FallenMusic)</b>
+- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousX1025)  ғᴏʀ  [ғᴀʟʟᴇɴ ᴍᴜsɪᴄ](https://github.com/)</b>
 - <b>[ᴅᴀɴ](https://github.com/delivrance)  ғᴏʀ  [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)</b>
 - <b>[ʟᴏɴᴀᴍɪ](https://github.com/Lonami)  ғᴏʀ  [ᴛᴇʟᴇᴛʜᴏɴ](https://github.com/LonamiWebs/Telethon)</b>
 
